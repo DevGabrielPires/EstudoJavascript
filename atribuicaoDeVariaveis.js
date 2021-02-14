@@ -14,3 +14,4 @@ contador += 1;
 const nomeCompleto = nome + sobrenome;
 console.log(nomeCompleto);
 
+// editando só de zoas
